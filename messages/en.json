@@ -1,0 +1,190 @@
+{
+      "Navbar": {
+            "home": "Home",
+            "machines": "Machines",
+            "services": "Services",
+            "about": "About Us",
+            "contact": "Contact",
+            "getQuote": "Get a Quote",
+            "needHelp": "Need help? Talk to an Expert"
+      },
+      "Hero": {
+            "welcome": "Welcome to Azza Machinery",
+            "contactUs": "Contact Us",
+            "viewInventory": "View Inventory",
+            "slide1": {
+                  "title": "DO YOU NEED HEAVY MACHINERY?",
+                  "subtitle": "WE HAVE THE SOLUTION",
+                  "desc": "We support the development of developing countries; we play an active role in the construction of critical infrastructure projects such as schools, hospitals, and roads, contributing to the increase of social welfare."
+            },
+            "slide2": {
+                  "title": "PREMIUM CONSTRUCTION EQUIPMENT",
+                  "subtitle": "BUILT FOR PERFORMANCE",
+                  "desc": "Our inventory features the latest models from top manufacturers, ensuring reliability and efficiency for your projects."
+            },
+            "slide3": {
+                  "title": "GLOBAL SHIPPING AVAILABLE",
+                  "subtitle": "WE DELIVER WORLDWIDE",
+                  "desc": "From our yard to your site, we handle all logistics to ensure your equipment arrives safely and on time."
+            }
+      },
+      "Categories": {
+            "title": "Category",
+            "heading": "BROWSE EQUIPMENT CATEGORIES",
+            "items": {
+                  "excavators": "Excavators",
+                  "wheelLoaders": "Wheel Loaders",
+                  "bulldozers": "Bulldozers",
+                  "rollers": "Rollers",
+                  "dumpTrucks": "Dump Trucks",
+                  "cranes": "Cranes"
+            }
+      },
+      "Promo": {
+            "title": "DO YOU NEED HEAVY <br /> MACHINERY? WE HAVE THE <br /> <span class='text-primary'>SOLUTION</span>",
+            "desc": "We support the development of developing countries; we play an active role in the construction of critical infrastructure projects such as schools, hospitals, and roads, contributing to the increase of social welfare.",
+            "contact": "Contact Us"
+      },
+      "Featured": {
+            "title": "Our Products",
+            "heading": "FEATURED PRODUCTS",
+            "desc": "We are a leading international manufacturer of premium construction equipment, and with over 14,000 employees we are one of the largest companies in the industry.",
+            "viewAll": "View All Inventory"
+      },
+      "Services": {
+            "reasonsTitle": "Reasons to Choose Us",
+            "reasonsHeading": "Industry Leader in Construction Equipment Supply",
+            "quality": {
+                  "title": "Quality Equipment",
+                  "desc": "Offering guarantees an agreed price for all covered repairs, allowing you to budget carefully and avoid unexpected expense."
+            },
+            "fast": {
+                  "title": "Fast Service",
+                  "desc": "Providing a unique insight into the health of your machine, helping to avoid expensive repairs and unexpected downtime."
+            },
+            "support": {
+                  "title": "Support 24/7",
+                  "desc": "Regular, planned Care Inspection gives you the knowledge you need to ensure that your machine is always in top shape on the world."
+            },
+            "viewMore": "View More"
+      },
+      "About": {
+            "title": "ALWAYS BRING CUSTOMERS THE <br /> <span class='text-primary'>BEST QUALITY EQUIPMENT</span>",
+            "desc": "We provide high-quality heavy machinery to clients worldwide, ensuring reliability and efficiency for all your construction needs.",
+            "sub1": {
+                  "title": "High Quality Equipment",
+                  "desc": "Our inventory consists of top-tier machinery from leading manufacturers, guaranteed to perform under the toughest conditions."
+            },
+            "sub2": {
+                  "title": "Good Service Quality",
+                  "desc": "Our dedicated team offers exceptional support and service, ensuring your operations run smoothly without interruption."
+            },
+            "viewMore": "View More"
+      },
+      "Testimonials": {
+            "title": "Testimonials",
+            "heading": "WHAT OUR CLIENTS SAY",
+            "desc": "We strive for a complete life-cycle approach in all we do to improve the use of the planet's resources. Together with our suppliers and other partners, we are accelerating a step change toward circularity.",
+            "author": "Adam Hoffman",
+            "role": "CEO of Construction"
+      },
+      "Footer": {
+            "newsletterDesc": "Subscribe to our newsletter to get the latest news and offers.",
+            "emailPlaceholder": "Your Email Address",
+            "subscribe": "Subscribe",
+            "about": "About Us",
+            "aboutDesc": "Leading provider of heavy machinery for construction and industrial needs worldwide.",
+            "quickLinks": "Quick Links",
+            "contact": "Contact Info",
+            "noResults": "No machines found in this category.",
+            "viewAll": "View all machines",
+            "items": {
+                  "all": "All Machines",
+                  "excavators": "Excavators",
+                  "loaders": "Wheel Loaders",
+                  "wheelLoaders": "Wheel Loaders",
+                  "bulldozers": "Bulldozers"
+            },
+            "subscribeTitle": "Subscribe to Our Newsletter",
+            "aboutCompany": "About Company",
+            "ourShop": "Our Shop",
+            "ourInventory": "Our Inventory",
+            "featureProducts": "Feature Products",
+            "inventoryDetail": "Inventory Detail",
+            "ourNetwork": "Our Network",
+            "needHelp": "Need help? Talk to an Expert",
+            "address": "Istanbul, Turkey<br />Worldwide Shipping Available"
+      },
+      "MachineCard": {
+            "forSale": "For Sale",
+            "year": "Year",
+            "hours": "Hours",
+            "power": "Power",
+            "weight": "Weight",
+            "viewMore": "View Details"
+      },
+      "AboutPage": {
+            "title": "About Azza Machinery",
+            "subtitle": "Your Trusted Partner in Heavy Machinery Trading",
+            "desc": "Azza Machinery is a premier global trading company specializing in heavy construction equipment. With years of experience and a vast network of suppliers, we provide high-quality machinery to clients worldwide. Our mission is to deliver reliable, efficient, and cost-effective solutions for all your construction needs.",
+            "mission": {
+                  "title": "Our Mission",
+                  "desc": "To empower construction projects globally by providing top-tier machinery and exceptional service."
+            },
+            "vision": {
+                  "title": "Our Vision",
+                  "desc": "To be the world's most trusted partner in the heavy machinery trading industry."
+            },
+            "stats": {
+                  "years": "Years Experience",
+                  "countries": "Countries Served",
+                  "machines": "Machines Sold"
+            }
+      },
+      "ContactPage": {
+            "title": "Contact Us",
+            "subtitle": "Get in Touch",
+            "desc": "Have questions about our inventory or need a quote? Reach out to us today.",
+            "form": {
+                  "name": "Your Name",
+                  "email": "Your Email",
+                  "subject": "Subject",
+                  "message": "Message",
+                  "send": "Send Message"
+            },
+            "info": {
+                  "address": "Address",
+                  "phone": "Phone",
+                  "email": "Email",
+                  "workingHours": "Working Hours"
+            }
+      },
+      "Machines": {
+            "title": "Machines",
+            "categories": "Categories",
+            "allMachines": "All Machines",
+            "showingResults": "Showing {count} results",
+            "noResults": "No machines found.",
+            "viewAll": "View All",
+            "items": {
+                  "all": "All Machines",
+                  "excavators": "Excavators",
+                  "loaders": "Wheel Loaders",
+                  "wheelLoaders": "Wheel Loaders",
+                  "bulldozers": "Bulldozers",
+                  "rollers": "Soil Compactors",
+                  "dumpTrucks": "Dump Trucks",
+                  "cranes": "Cranes"
+            }
+      },
+      "NotFound": {
+            "title": "Page Not Found",
+            "desc": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+            "home": "Back to Home"
+      },
+      "Error": {
+            "title": "Something went wrong!",
+            "desc": "We apologize for the inconvenience. Please try again later.",
+            "retry": "Try again"
+      }
+}

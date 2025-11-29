@@ -1,0 +1,172 @@
+{
+      "Navbar": {
+            "home": "Anasayfa",
+            "machines": "Makineler",
+            "services": "Hizmetler",
+            "about": "Hakkımızda",
+            "contact": "İletişim",
+            "getQuote": "Teklif Al",
+            "needHelp": "Yardıma mı ihtiyacınız var? Bir Uzmanla Görüşün"
+      },
+      "Hero": {
+            "welcome": "Azza Machinery'ye Hoşgeldiniz",
+            "contactUs": "İletişime Geç",
+            "viewInventory": "Stokları İncele",
+            "slide1": {
+                  "title": "AĞIR İŞ MAKİNESİNE Mİ İHTİYACINIZ VAR?",
+                  "subtitle": "ÇÖZÜM BİZDE",
+                  "desc": "Gelişmekte olan ülkelerin kalkınmasına destek veriyor; okul, hastane ve yol gibi kritik altyapı projelerinin inşasında aktif rol alarak toplumsal refahın artmasına katkı sağlıyoruz."
+            },
+            "slide2": {
+                  "title": "PREMIUM İNŞAAT EKİPMANLARI",
+                  "subtitle": "PERFORMANS İÇİN ÜRETİLDİ",
+                  "desc": "Envanterimiz, projeleriniz için güvenilirlik ve verimlilik sağlayan, en iyi üreticilerin en son modellerini içerir."
+            },
+            "slide3": {
+                  "title": "KÜRESEL NAKLİYE MEVCUT",
+                  "subtitle": "DÜNYA ÇAPINDA TESLİMAT",
+                  "desc": "Sahamızdan şantiyenize kadar, ekipmanınızın güvenli ve zamanında ulaşmasını sağlamak için tüm lojistik süreçleri yönetiyoruz."
+            }
+      },
+      "Categories": {
+            "title": "Kategori",
+            "heading": "EKİPMAN KATEGORİLERİNE GÖZ ATIN",
+            "items": {
+                  "excavators": "Ekskavatörler",
+                  "wheelLoaders": "Lastikli Yükleyiciler",
+                  "bulldozers": "Buldozerler",
+                  "rollers": "Silindirler",
+                  "dumpTrucks": "Damperli Kamyonlar",
+                  "cranes": "Vinçler"
+            }
+      },
+      "Promo": {
+            "title": "AĞIR İŞ MAKİNESİNE Mİ <br /> İHTİYACINIZ VAR? BİZDE <br /> <span class='text-primary'>ÇÖZÜM VAR</span>",
+            "desc": "Gelişmekte olan ülkelerin kalkınmasına destek veriyor; okul, hastane ve yol gibi kritik altyapı projelerinin inşasında aktif rol alarak toplumsal refahın artmasına katkı sağlıyoruz.",
+            "contact": "İletişime Geç"
+      },
+      "Featured": {
+            "title": "Ürünlerimiz",
+            "heading": "ÖNE ÇIKAN ÜRÜNLER",
+            "desc": "Premium inşaat ekipmanlarının önde gelen uluslararası üreticisiyiz ve 14.000'den fazla çalışanımızla sektördeki en büyük şirketlerden biriyiz.",
+            "viewAll": "Tüm Stokları Gör"
+      },
+      "Services": {
+            "reasonsTitle": "Bizi Neden Seçmelisiniz",
+            "reasonsHeading": "İnşaat Ekipmanları Tedariğinde Sektör Lideri",
+            "quality": {
+                  "title": "Kaliteli Ekipman",
+                  "desc": "Kapsanan tüm onarımlar için kararlaştırılan bir fiyat garantisi sunarak, bütçenizi dikkatli bir şekilde yapmanıza ve beklenmedik masraflardan kaçınmanıza olanak tanır."
+            },
+            "fast": {
+                  "title": "Hızlı Servis",
+                  "desc": "Makinenizin sağlığı hakkında benzersiz bir içgörü sağlayarak, pahalı onarımlardan ve beklenmedik arıza sürelerinden kaçınmanıza yardımcı olur."
+            },
+            "support": {
+                  "title": "7/24 Destek",
+                  "desc": "Düzenli, planlı Bakım Denetimi, makinenizin dünyada her zaman en iyi durumda olduğundan emin olmanız için ihtiyacınız olan bilgiyi verir."
+            },
+            "viewMore": "Daha Fazla"
+      },
+      "About": {
+            "title": "MÜŞTERİLERE HER ZAMAN <br /> <span class='text-primary'>EN KALİTELİ EKİPMANI SUNUYORUZ</span>",
+            "desc": "Dünya çapındaki müşterilerimize yüksek kaliteli ağır iş makineleri sağlıyor, tüm inşaat ihtiyaçlarınız için güvenilirlik ve verimlilik sunuyoruz.",
+            "sub1": {
+                  "title": "Yüksek Kaliteli Ekipman",
+                  "desc": "Envanterimiz, en zorlu koşullarda performans göstermesi garanti edilen, önde gelen üreticilerin üst düzey makinelerinden oluşmaktadır."
+            },
+            "sub2": {
+                  "title": "İyi Hizmet Kalitesi",
+                  "desc": "Uzman ekibimiz, operasyonlarınızın kesintisiz devam etmesini sağlamak için olağanüstü destek ve hizmet sunmaktadır."
+            },
+            "viewMore": "Daha Fazla"
+      },
+      "Testimonials": {
+            "title": "Referanslar",
+            "heading": "MÜŞTERİLERİMİZ NE DİYOR",
+            "desc": "Gezegenin kaynaklarının kullanımını iyileştirmek için yaptığımız her şeyde tam bir yaşam döngüsü yaklaşımı için çabalıyoruz. Tedarikçilerimiz ve diğer ortaklarımızla birlikte, döngüselliğe doğru bir adım değişikliğini hızlandırıyoruz.",
+            "author": "Adam Hoffman",
+            "role": "İnşaat CEO'su"
+      },
+      "Footer": {
+            "newsletterDesc": "En son haberleri ve teklifleri almak için bültenimize abone olun.",
+            "emailPlaceholder": "E-posta Adresiniz",
+            "subscribe": "Abone Ol",
+            "about": "Hakkımızda",
+            "aboutDesc": "Dünya çapında inşaat ve endüstriyel ihtiyaçlar için ağır iş makineleri sağlayan lider tedarikçi.",
+            "needHelp": "Yardıma mı ihtiyacınız var? Bir Uzmanla Görüşün",
+            "address": "İstanbul, Türkiye<br />Dünya Çapında Nakliye Mevcut"
+      },
+      "MachineCard": {
+            "forSale": "Satılık",
+            "year": "Yıl",
+            "hours": "Saat",
+            "power": "Güç",
+            "weight": "Ağırlık",
+            "viewMore": "Detayları Gör"
+      },
+      "AboutPage": {
+            "title": "Azza Machinery Hakkında",
+            "subtitle": "Ağır İş Makineleri Ticaretinde Güvenilir Ortağınız",
+            "desc": "Azza Machinery, ağır inşaat ekipmanları konusunda uzmanlaşmış önde gelen bir küresel ticaret şirketidir. Yılların deneyimi ve geniş tedarikçi ağımızla, dünya çapındaki müşterilerimize yüksek kaliteli makineler sağlıyoruz. Misyonumuz, tüm inşaat ihtiyaçlarınız için güvenilir, verimli ve uygun maliyetli çözümler sunmaktır.",
+            "mission": {
+                  "title": "Misyonumuz",
+                  "desc": "Üst düzey makineler ve olağanüstü hizmet sunarak küresel inşaat projelerini güçlendirmek."
+            },
+            "vision": {
+                  "title": "Vizyonumuz",
+                  "desc": "Ağır iş makineleri ticaretinde dünyanın en güvenilir ortağı olmak."
+            },
+            "stats": {
+                  "years": "Yıllık Tecrübe",
+                  "countries": "Hizmet Verilen Ülke",
+                  "machines": "Satılan Makine"
+            }
+      },
+      "ContactPage": {
+            "title": "İletişim",
+            "subtitle": "Bize Ulaşın",
+            "desc": "Envanterimiz hakkında sorularınız mı var veya teklif mi istiyorsunuz? Bugün bize ulaşın.",
+            "form": {
+                  "name": "Adınız",
+                  "email": "E-postanız",
+                  "subject": "Konu",
+                  "message": "Mesajınız",
+                  "send": "Mesaj Gönder"
+            },
+            "info": {
+                  "address": "Adres",
+                  "phone": "Telefon",
+                  "email": "E-posta",
+                  "workingHours": "Çalışma Saatleri"
+            }
+      },
+      "Machines": {
+            "title": "Makineler",
+            "categories": "Kategoriler",
+            "allMachines": "Tüm Makineler",
+            "showingResults": "{count} sonuç gösteriliyor",
+            "noResults": "Makine bulunamadı.",
+            "viewAll": "Hepsini Gör",
+            "items": {
+                  "all": "Tüm Makineler",
+                  "excavators": "Ekskavatörler",
+                  "loaders": "Lastikli Yükleyiciler",
+                  "wheelLoaders": "Lastikli Yükleyiciler",
+                  "bulldozers": "Buldozerler",
+                  "rollers": "Silindirler",
+                  "dumpTrucks": "Damperli Kamyonlar",
+                  "cranes": "Vinçler"
+            }
+      },
+      "NotFound": {
+            "title": "Sayfa Bulunamadı",
+            "desc": "Aradığınız sayfa kaldırılmış, adı değiştirilmiş veya geçici olarak kullanılamıyor olabilir.",
+            "home": "Ana Sayfaya Dön"
+      },
+      "Error": {
+            "title": "Bir şeyler ters gitti!",
+            "desc": "Yaşanan aksaklık için özür dileriz. Lütfen daha sonra tekrar deneyin.",
+            "retry": "Tekrar Dene"
+      }
+}

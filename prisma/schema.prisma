@@ -1,0 +1,44 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model User {
+  id       String @id @default(cuid())
+  email    String @unique
+  password String
+  name     String?
+}
+
+model Machine {
+  id          String   @id @default(cuid())
+  name        String
+  category    String
+  brand       String
+  model       String
+  year        Int
+  price       Float
+  hours       Int
+  weight      Int?
+  power       Int?
+  location    String
+  image       String
+  description String
+  features    String   // Stored as JSON string
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Category {
+  id        String   @id @default(cuid())
+  slug      String   @unique
+  nameEn    String
+  nameTr    String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
