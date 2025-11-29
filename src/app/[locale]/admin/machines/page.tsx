@@ -3,6 +3,7 @@ import Image from 'next/image';
 import { prisma } from '@/lib/prisma';
 import { Plus, Pencil } from 'lucide-react';
 import DeleteMachineButton from '@/components/admin/DeleteMachineButton';
+import { Machine } from '@prisma/client';
 
 export default async function AdminMachinesPage({
       params,
@@ -39,7 +40,7 @@ export default async function AdminMachinesPage({
                                     </tr>
                               </thead>
                               <tbody className="bg-white divide-y divide-gray-200">
-                                    {machines.map((machine) => (
+                                    {machines.map((machine: Machine) => (
                                           <tr key={machine.id} className="hover:bg-gray-50">
                                                 <td className="px-6 py-4 whitespace-nowrap">
                                                       <div className="flex items-center">
