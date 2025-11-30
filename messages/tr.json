@@ -82,26 +82,6 @@
             "viewMore": "Daha Fazla"
       },
       "Testimonials": {
-            "title": "Referanslar",
-            "heading": "MÜŞTERİLERİMİZ NE DİYOR",
-            "desc": "Gezegenin kaynaklarının kullanımını iyileştirmek için yaptığımız her şeyde tam bir yaşam döngüsü yaklaşımı için çabalıyoruz. Tedarikçilerimiz ve diğer ortaklarımızla birlikte, döngüselliğe doğru bir adım değişikliğini hızlandırıyoruz.",
-            "author": "Adam Hoffman",
-            "role": "İnşaat CEO'su"
-      },
-      "Footer": {
-            "newsletterDesc": "En son haberleri ve teklifleri almak için bültenimize abone olun.",
-            "emailPlaceholder": "E-posta Adresiniz",
-            "subscribe": "Abone Ol",
-            "about": "Hakkımızda",
-            "aboutDesc": "Dünya çapında inşaat ve endüstriyel ihtiyaçlar için ağır iş makineleri sağlayan lider tedarikçi.",
-            "needHelp": "Yardıma mı ihtiyacınız var? Bir Uzmanla Görüşün",
-            "address": "İstanbul, Türkiye<br />Dünya Çapında Nakliye Mevcut"
-      },
-      "MachineCard": {
-            "forSale": "Satılık",
-            "year": "Yıl",
-            "hours": "Saat",
-            "power": "Güç",
             "weight": "Ağırlık",
             "viewMore": "Detayları Gör"
       },
