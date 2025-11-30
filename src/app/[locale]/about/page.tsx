@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import Image from "next/image";
 
 
 export default function AboutPage() {
@@ -37,11 +38,13 @@ export default function AboutPage() {
                                     </div>
                               </div>
 
-                              <div className="relative h-[500px] bg-gray-200 rounded-lg overflow-hidden">
-                                    {/* Placeholder for an image - using a solid color for now or a generic placeholder if available */}
-                                    <div className="absolute inset-0 bg-gray-300 flex items-center justify-center text-gray-500 font-oswald text-2xl">
-                                          ABOUT IMAGE
-                                    </div>
+                              <div className="relative h-[500px] bg-gray-200 rounded-lg overflow-hidden shadow-2xl">
+                                    <Image
+                                          src="/images/excavator.png"
+                                          alt="About Azza Machinery"
+                                          fill
+                                          className="object-cover"
+                                    />
                               </div>
                         </div>
 

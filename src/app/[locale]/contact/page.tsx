@@ -20,8 +20,8 @@ export default function ContactPage() {
                                     <div>
                                           <h3 className="text-2xl font-oswald font-bold mb-6 text-black">{t('info.address')}</h3>
                                           <p className="text-gray-600 text-lg">
-                                                Istanbul, Turkey<br />
-                                                Worldwide Shipping Available
+                                                Nuripaşa Mah. Bekirsubaşı Sokak No:23B<br />
+                                                Zeytinburnu İstanbul
                                           </p>
                                     </div>
 
@@ -67,6 +67,19 @@ export default function ContactPage() {
                                           </button>
                                     </form>
                               </div>
+                        </div>
+
+                        {/* Map Section */}
+                        <div className="mt-16 w-full h-[400px] bg-gray-200 rounded-sm overflow-hidden shadow-lg">
+                              <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.650490013064!2d28.90086307655516!3d40.98913997135316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c3c00000000001%3A0x0!2zNDDCsDU5JzIwLjkiTiAyOMKwNTQnMTIuNCJF!5e0!3m2!1sen!2str!4v1701380000000!5m2!1sen!2str"
+                                    width="100%"
+                                    height="100%"
+                                    style={{ border: 0 }}
+                                    allowFullScreen
+                                    loading="lazy"
+                                    referrerPolicy="no-referrer-when-downgrade"
+                              ></iframe>
                         </div>
                   </div>
             </div>
