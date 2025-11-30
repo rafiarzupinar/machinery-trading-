@@ -45,6 +45,9 @@ export const metadata: Metadata = {
             title: 'Azza Machinery',
             description: 'Premium heavy machinery for construction and industrial needs.',
       },
+      icons: {
+            icon: '/favicon.ico',
+      },
 };
 
 export default async function RootLayout({
